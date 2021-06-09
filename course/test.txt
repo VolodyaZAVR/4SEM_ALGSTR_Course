@@ -1,0 +1,10 @@
+S O 10
+S P 4
+S F 2
+O F 7
+O Q 5
+P R 15
+F Q 6
+F T 2
+Q T 8
+R T 10

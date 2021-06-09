@@ -1,0 +1,4 @@
+﻿  UnitTest4.cpp
+C:\Users\hispe\Workspace\C++\4 sem aisd\Course_work\course\List.h(188): warning C4715: List<int>::at: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\hispe\Workspace\C++\4 sem aisd\Course_work\course\Debug\UnitTest4.lib и объект C:\Users\hispe\Workspace\C++\4 sem aisd\Course_work\course\Debug\UnitTest4.exp
+  UnitTest4.vcxproj -> C:\Users\hispe\Workspace\C++\4 sem aisd\Course_work\course\Debug\UnitTest4.dll
